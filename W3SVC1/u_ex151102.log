@@ -1,0 +1,27 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-11-02 21:11:43
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2015-11-02 21:11:43 127.0.0.1 GET / - 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/44.0.2403.157+Safari/537.36 200 0 0 637
+2015-11-02 21:11:43 127.0.0.1 GET /script.js - 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/44.0.2403.157+Safari/537.36 200 0 0 0
+2015-11-02 21:11:43 127.0.0.1 GET /site.css - 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/44.0.2403.157+Safari/537.36 200 0 0 23
+2015-11-02 21:11:43 127.0.0.1 GET /favicon.ico - 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/44.0.2403.157+Safari/537.36 404 0 2 13
+2015-11-02 21:11:47 127.0.0.1 GET /customers.html - 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/44.0.2403.157+Safari/537.36 200 0 0 30
+2015-11-02 21:11:47 127.0.0.1 GET /about.html - 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/44.0.2403.157+Safari/537.36 200 0 0 2
+2015-11-02 21:12:02 127.0.0.1 GET /index.html - 80 - 127.0.0.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/44.0.2403.157+Safari/537.36 200 0 0 0
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-11-02 21:13:54
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2015-11-02 21:13:54 192.168.1.2 GET / - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/44.0.2403.157+Safari/537.36 200 0 0 2
+2015-11-02 21:13:54 192.168.1.2 GET /script.js - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/44.0.2403.157+Safari/537.36 200 0 0 0
+2015-11-02 21:13:54 192.168.1.2 GET /site.css - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/44.0.2403.157+Safari/537.36 200 0 0 14
+2015-11-02 21:13:54 192.168.1.2 GET /favicon.ico - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/44.0.2403.157+Safari/537.36 404 0 2 1
+2015-11-02 21:13:56 192.168.1.2 GET /index.html - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/44.0.2403.157+Safari/537.36 200 0 0 3
+2015-11-02 21:13:56 192.168.1.2 GET /customers.html - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/44.0.2403.157+Safari/537.36 200 0 0 28
+2015-11-02 21:13:58 192.168.1.2 GET /about.html - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/44.0.2403.157+Safari/537.36 200 0 0 1
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-11-02 21:25:41
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2015-11-02 21:25:41 192.168.1.2 GET / - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/44.0.2403.157+Safari/537.36 304 0 0 5
